@@ -1,0 +1,4 @@
+pbpaste > dirty.html
+python cleanPage.py
+cat clean.html | pbcopy
+rm dirty.html

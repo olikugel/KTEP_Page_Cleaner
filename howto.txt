@@ -1,0 +1,7 @@
+>> Go to broken Webpage
+>> Click on "Text" (upper-right corner)
+>> Copy entire HTML text
+>> Navigate to ~/Tresors/KTEP/Website\ Protection
+>> ./cleaner
+>> Paste into Webpage
+>> Click Update
